@@ -1,0 +1,2 @@
+#define RADONCUDA_API __declspec(dllexport)
+#define RADONCUDA_API __declspec(dllimport)
